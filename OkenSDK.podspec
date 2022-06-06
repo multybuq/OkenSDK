@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'David Dreval' => 'david@oken.tech' }
-  s.source           = { 'https://github.com/multybuq/OkenSDK/raw/main/OkenSDK.framework.zip' }
+  s.source           = { :git => 'https://github.com/multybuq/OkenSDK.git' }
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
