@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'Awesome iOS SDK Pod of the Oken Company.'
 
-  s.description      = It will be added
+  s.description      = 'It will be added'
 
   s.homepage         = 'https://github.com/multybuq/OkenSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
