@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
    s.vendored_frameworks = 'OkenSDK.framework'
    s.dependency 'Starscream', '~> 4.0.0'
    s.dependency 'Alamofire'
-   s.dependency 'Zip'
+   # s.dependency 'Zip'
 end
